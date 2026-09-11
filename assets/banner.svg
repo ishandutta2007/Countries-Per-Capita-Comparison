@@ -206,7 +206,7 @@
     <circle cx="1120" cy="210" r="2" fill="#c084fc" class="twinkle-3" />
 
     <!-- ================= LEFT COLUMN: HERO HEADLINE ================= -->
-    <g transform="translate(60, 50)">
+    <g transform="translate(460, 50)">
       <!-- Pill Badge: 2026 BENCHMARK -->
       <g>
         <rect x="0" y="0" width="285" height="32" rx="16" fill="#1e293b" fill-opacity="0.85" stroke="#38bdf8" stroke-width="1.2" stroke-opacity="0.6" />
