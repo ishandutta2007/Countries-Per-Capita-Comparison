@@ -33,14 +33,22 @@ A direct, standalone per-capita comparison analyzing individual consumption, liv
 | ☀️ **Solar & Wind Capacity** | 1.15 kW | 1.28 kW | 1.35 kW | Cumulative installed renewable wind and solar power generation per person. |
 | 📶 **5G Base Stations** | 9.8 | 11.2 | 31.5 | Number of operational 5G cellular base stations deployed per 10,000 people. |
 | 🛫 **Annual Air Travel Trips** | 2.8 trips | 1.9 trips | 0.58 trips | Domestic and international commercial airline passenger journeys taken per person. |
+| 🌍 **Annual International Air Trips** | 0.35 trips | 1.35 trips | 0.11 trips | Cross-border international commercial flights taken per person (elevated in EU by intra-Europe travel). |
+| 🚇 **Annual Metro / Urban Rail Trips** | 5.8 trips | 23.5 trips | 24.2 trips | Annual passenger journeys per person on heavy urban subway, underground, and metro networks. |
+| 🚄 **Annual Bullet Train Trips** | 0.01 trips | 1.30 trips | 2.45 trips | Annual passenger journeys per person on dedicated high-speed rail networks (≥200–350 km/h). |
+| 📱 **Monthly Mobile Data Consumed** | 21.4 GB | 18.2 GB | 20.8 GB | Average cellular data traffic consumed per person per month on mobile networks. |
+| 💻 **Monthly Total Internet Traffic** | 185 GB | 125 GB | 110 GB | Total monthly data volume (fixed residential broadband + mobile) consumed per person. |
 | 🥩 **Annual Meat Consumption** | 275 lbs (125 kg) | 168 lbs (76 kg) | 154 lbs (70 kg) | Total meat consumption per person, reflecting protein dietary consumption standards. |
 
 ### 🔍 Key Structural Takeaways
 
 * 🏙️ **Physical Space vs. Public Transit:** The average American commands roughly double the physical living space of a European or Chinese citizen, but has practically zero access to high-speed rail infrastructure per person. 
+* 🚄 **The Bullet Train & Metro Divide:** China logs ~2.45 high-speed rail trips and ~24.2 metro trips per capita annually, closely matched by European urban metro usage (~23.5 trips). In contrast, an average American takes virtually zero bullet train trips (0.01) and only ~5.8 subway rides annually, with transit heavily concentrated in the New York metropolitan area.
+* ✈️ **Domestic vs. International Flight Mobility:** The US leads heavily in total per-capita flights (2.8 trips/year) due to its continent-spanning domestic air network. Conversely, the European Union leads by far in international travel (1.35 cross-border trips/year) due to open skies and Schengen connectivity.
 * 🛒 **The Consumer Spending Power Gap:** While China's adjusted GDP (PPP) per capita has reached roughly a third of the US level, its *household disposable income* per capita remains lower. This indicates that a much larger share of China's economic output is driven by corporate and state industrial investment rather than direct consumer power.
 * ⚡ **Green Energy & Digital Infrastructure Surge:** China's rapid national buildouts have propelled it ahead in both installed renewable solar/wind capacity per capita (1.35 kW) and telecom density with over 3x the 5G base stations per 10,000 residents compared to the US or EU.
-* 💡 **Innovation & High-Mobility Premium:** The United States continues to invest over double the R&D funding per person (\$2,650) relative to Europe and over 6x that of China, alongside world-leading per-capita consumer mobility via commercial air travel.
+* 📶 **Data Consumption & Bandwidth:** Mobile data usage per person has converged globally across all three economies (~18–21 GB/month). However, total monthly data consumption per capita (fixed broadband + mobile) remains highest in the US (185 GB/month), fueled by high household multi-device streaming and cloud storage loads.
+* 💡 **Innovation Premium:** The United States continues to invest over double the R&D funding per person (\$2,650) relative to Europe and over 6x that of China.
 
 ##  Star History
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Countries-Per-Capita-Comparison&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Countries-Per-Capita-Comparison&type=date&legend=top-left)
