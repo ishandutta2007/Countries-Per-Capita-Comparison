@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Countries Per-Capita Comparison" width="100%">
+</p>
+
 # Countries-Per-Capita-Comparison
 
 # 2026 Per-Capita Economic & Infrastructure Comparison
